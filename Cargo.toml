@@ -4,6 +4,10 @@ version = "0.0.1"
 authors = ["Zimon Dai <daizhuoxian@gmail.com>"]
 edition = "2018"
 keywords = ["jpeg", "image", "libjpeg", "libjpegturbo"]
+documentation = "https://docs.rs/libjpegturbo-sys"
+repository = "https://github.com/zimond/libjpegturbo-sys"
+license = "MIT OR Apache-2.0"
+description = "Bindings to libjpegturbo c library"
 
 [dependencies]
 
